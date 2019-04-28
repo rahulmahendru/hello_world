@@ -1,2 +1,4 @@
 # hello_world
-Just another repositopry
+Just another repository
+
+Learning Github
